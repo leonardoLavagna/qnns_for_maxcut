@@ -1,0 +1,16 @@
+--- Aggregated Test Evaluation over All Runs (Quantum Models) ---
+
+QuantumMLP Results:
+  MSE:            16.0088
+  MAE:            3.1361
+  Approx. Ratio:  1.1178 ± 1.0976
+
+HybridLSTM Results:
+  MSE:            14.6645
+  MAE:            2.9705
+  Approx. Ratio:  1.1304 ± 1.1521
+
+QuantumGNN Results:
+  MSE:            11.3348
+  MAE:            2.8557
+  Approx. Ratio:  1.8961 ± 1.9610

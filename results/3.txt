@@ -1,0 +1,31 @@
+--- Aggregated Test Evaluation over All Runs ---
+
+MLP Results:
+  MSE:  11.7544
+  MAE:  2.7160
+  Approx Ratio:  1.3079 ± 1.2341
+
+LSTM Results:
+  MSE:  10.9162
+  MAE:  2.9017
+  Approx Ratio:  1.9056 ± 1.8865
+
+GCN Results:
+  MSE:  11.4396
+  MAE:  2.8550
+  Approx Ratio:  1.9121 ± 1.9600
+
+GAT Results:
+  MSE:  11.4974
+  MAE:  2.8404
+  Approx Ratio:  1.6311 ± 1.6536
+
+GraphSAGE Results:
+  MSE:  11.4872
+  MAE:  2.8598
+  Approx Ratio:  1.8922 ± 1.9314
+
+GIN Results:
+  MSE:  11.4508
+  MAE:  2.8557
+  Approx Ratio:  1.9080 ± 1.9577
